@@ -1,6 +1,6 @@
 # Urdu Sign Language Recognition Using Ensemble Models
 
-This project implements a real-time Urdu sign language recognition system using an ensemble of deep learning models. The system predicts the Urdu alphabet sign shown in a live video feed and displays predictions from multiple models along with an ensemble result using majority voting.
+This project implements a real-time Urdu sign language recognition system using an ensemble of deep learning models. The system predicts the Urdu alphabet sign shown in a live video feed and displays predictions from multiple models along with an ensemble result using majority voting.Projcet also applied a traditional method using machine learning along with processing on the dynamic data.
 
 ## Features
 
